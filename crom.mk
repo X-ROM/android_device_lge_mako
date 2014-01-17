@@ -46,4 +46,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # Copy device specific prebuilt files.
 PRODUCT_COPY_FILES += \
-    vendor/crom/prebuilt/common/media/xxhdpi/BOOTANIMATION-1280x768.zip:system/media/bootanimation.zip
+    vendor/crom/prebuilt/common/media/xhdpi/BOOTANIMATION-1280x768.zip:system/media/bootanimation.zip
