@@ -37,7 +37,7 @@ PRODUCT_PROPERTY_OVERRIDES += ro.buildzipid=crom.mako.$(shell date +%m%d%y).$(sh
 
 # overrides
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BUILD_NUMBER=737497 \
+    BUILD_NUMBER=937116 \
     PRODUCT_NAME=occam \
     TARGET_BUILD_TYPE=user \
     BUILD_VERSION_TAGS=release-keys \
