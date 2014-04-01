@@ -41,8 +41,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=occam \
     TARGET_BUILD_TYPE=user \
     BUILD_VERSION_TAGS=release-keys \
-    PRIVATE_BUILD_DESC="occam-user 4.3 JWR66V 737497 release-keys" \
-    BUILD_FINGERPRINT="google/occam/mako:4.3/JWR66V/737497:user/release-keys"
+    PRIVATE_BUILD_DESC="occam-user 4.4.2 KOT49H 937116 release-keys" \
+    BUILD_FINGERPRINT="google/occam/mako:4.4.2/KOT49H/937116:user/release-keys"
 
 # Copy device specific prebuilt files.
 PRODUCT_COPY_FILES += \
