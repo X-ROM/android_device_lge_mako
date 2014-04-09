@@ -44,6 +44,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="occam-user 4.3 JWR66V 737497 release-keys" \
     BUILD_FINGERPRINT="google/occam/mako:4.3/JWR66V/737497:user/release-keys"
 
-# Copy device specific prebuilt files.
+# bootanimation
 PRODUCT_COPY_FILES += \
-    vendor/crom/prebuilt/common/media/xhdpi/BOOTANIMATION-1280x768.zip:system/media/bootanimation.zip
+    vendor/crom/prebuilt/common/media/xxhdpi/BOOTANIMATION-1080x1920.zip:system/media/bootanimation.zip
